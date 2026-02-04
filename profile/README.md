@@ -70,4 +70,4 @@ This repository is a **proof of concept** to classify mushrooms as **edible** or
 
 **SchroomLoc** is a python API enabling possible mushrooms species growing near your location.  
 
-**Repository:** [ShroomLoc Python API](https://github.com/ShrooML-Team/ShroomLoc))  
+**Repository:** [ShroomLoc Python API](https://github.com/ShrooML-Team/ShroomLoc)  
