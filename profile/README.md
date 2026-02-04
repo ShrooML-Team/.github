@@ -64,3 +64,10 @@ This repository is a **proof of concept** to classify mushrooms as **edible** or
 
 **Repository:** [AutoML Python Package](https://github.com/ShrooML-Team/AutoML)  
 
+---
+
+### 3. ShroomLoc
+
+**SchroomLoc** is a python API enabling possible mushrooms species growing near your location.  
+
+**Repository:** [ShroomLoc Python API](https://github.com/ShrooML-Team/AutoML](https://github.com/ShrooML-Team/ShroomLoc))  
