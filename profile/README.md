@@ -70,12 +70,9 @@ This repository is a **proof of concept** to classify mushrooms as **edible** or
 
 **SchroomLoc** is a Python FastAPI service that provides information about mushrooms based on geographic location and weather. It allows users to:
 
-Authenticate with a username and password.
-
-Get an access token (JWT) to access protected endpoints.
-
-Retrieve mushrooms near a given latitude and longitude.
-
-Retrieve the full list of mushrooms from the dataset.
+- Authenticate with a username and password.
+- Get an access token (JWT) to access protected endpoints.
+- Retrieve mushrooms near a given latitude and longitude.
+- Retrieve the full list of mushrooms from the dataset.
 
 **Repository:** [ShroomLoc Python API](https://github.com/ShrooML-Team/ShroomLoc)  
