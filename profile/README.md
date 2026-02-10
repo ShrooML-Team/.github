@@ -34,7 +34,8 @@ ShrooML-Team focuses on two main projects:
 
 **Key repositories:**  
 - [ShrooML Android App](https://github.com/ShrooML-Team/ShrooML)  
-- [AutoML Python Package](https://github.com/ShrooML-Team/AutoML)
+- [AutoML Python Package AND API](https://github.com/ShrooML-Team/AutoML)
+- [ShroomLoc API](https://github.com/Shrooml-Team/ShroomLoc)
 
 ---
 
